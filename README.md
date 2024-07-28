@@ -10,7 +10,7 @@ ALOSTOURA-TV/ALOSTOURA-TV is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
- <h1 align="center">🏆GitHub Profile Trophy</h1>
+<h1 align="center">🏆GitHub Profile Trophy</h1>
 <h1 align="center"> Application developer  </h1><p align="center"><img src="https://i.imgur.com/0sNawZ8.gif" width="35"></h1>
 <p align="center">
   <a href="/"><img width="220" src="https://i.imgur.com/sONuNeb.png" /></a>
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <div align="center">
   
-    <a href="/"><img src="Sponsor.svg" alt="Sponsor"/>
+<a href="/"><img src="Sponsor.svg" alt="Sponsor"/>
 
 <p align='center'>
 <div align="center">
