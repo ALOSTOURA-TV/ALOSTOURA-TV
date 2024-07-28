@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <div align="center">
  	
-    <a href="/"><img src="badge.svg" alt="Awesome Badge"/></a>
-    <a href="/"><img src="findwrk.svg" alt="website"/></a>
-    <a href="/"><img src="If Useful.svg" alt="Star Badge"/></a>
+<a href="/"><img src="badge.svg" alt="Awesome Badge"/></a>
+<a href="/"><img src="findwrk.svg" alt="website"/></a>
+<a href="/"><img src="If Useful.svg" alt="Star Badge"/></a>
 
 
 <p align='center'>
