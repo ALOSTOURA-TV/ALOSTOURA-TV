@@ -13,30 +13,30 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">🏆GitHub Profile Trophy</h1>
 <h1 align="center"> Application developer  </h1><p align="center"><img src="https://i.imgur.com/0sNawZ8.gif" width="35"></h1>
 <p align="center">
-  <a href="/"><img width="220" src="https://i.imgur.com/sONuNeb.png" /></a>
+  <a href="https://github.com/ALOSTOURA-TV"><img width="220" src="https://i.imgur.com/sONuNeb.png" /></a>
 </p>
 
 
 <p align='center'>
 <div align="center">
   
-<a href="/"><img src="Sponsor.svg" alt="Sponsor"/>
+<a href="https://github.com/ALOSTOURA-TV"><img src="Sponsor.svg" alt="Sponsor"/>
 
 <p align='center'>
 <div align="center">
  	
-<a href="/"><img src="badge.svg" alt="Awesome Badge"/></a>
-<a href="/"><img src="findwrk.svg" alt="website"/></a>
-<a href="/"><img src="If Useful.svg" alt="Star Badge"/></a>
+<a href="https://github.com/ALOSTOURA-TV"><img src="badge.svg" alt="Awesome Badge"/></a>
+<a href="https://github.com/ALOSTOURA-TV"><img src="findwrk.svg" alt="website"/></a>
+<a href="https://github.com/ALOSTOURA-TV"><img src="If Useful.svg" alt="Star Badge"/></a>
 
 
 <p align='center'>
 <div align="center">
 
-  <a href="/"><img src="6 open.svg" alt="Issues"/></a>
-  <a href="/"><img src="729.svg" alt="Forks"/></a>
-  <a href="/"><img src="5k.svg" alt="Stargazers"/></a>
-  <a href="/"><img src="MIT.svg" alt="License"/></a>
+  <a href="https://github.com/ALOSTOURA-TV"><img src="6 open.svg" alt="Issues"/></a>
+  <a href="https://github.com/ALOSTOURA-TV"><img src="729.svg" alt="Forks"/></a>
+  <a href="https://github.com/ALOSTOURA-TV"><img src="5k.svg" alt="Stargazers"/></a>
+  <a href="https://github.com/ALOSTOURA-TV"><img src="MIT.svg" alt="License"/></a>
 
 </div>
 
@@ -52,17 +52,17 @@ You can click the Preview link to take a look at your changes.
 I am a front-end and application developer, responsible for using programming languages ​​to create interactive web pages and other applications, and I have experience in the latest technologies
 <br>
 <div align="center">
-<p align="center"> <a href="/"><img src="H1.svg" alt="bc-expert" width="400px"/></a> </p>
-<p align="center"> <a href="/"><img src="H2.png" alt="bc-expert" width="360px"/></a> </p>
-<p align="center"> <a href="/"><img src="H3.png" alt="bc-expert" width="320px"/></a> </p>
-<p align="center"> <a href="/"><img src="H4.png" alt="bc-expert" width="280px"/></a> </p>
-<p align="center"> <a href="/"><img src="H5.png" alt="bc-expert" width="240px"/></a> </p>
-<p align="center"> <a href="/"><img src="H6.svg" alt="bc-expert" width="200px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H1.svg" alt="bc-expert" width="400px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H2.png" alt="bc-expert" width="360px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H3.png" alt="bc-expert" width="320px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H4.png" alt="bc-expert" width="280px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H5.png" alt="bc-expert" width="240px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H6.svg" alt="bc-expert" width="200px"/></a> </p>
 
-<p align="center"> <a href="/"><img src="https://i.imgur.com/54DNXLH.png" alt="bc-expert" width="100px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="https://i.imgur.com/54DNXLH.png" alt="bc-expert" width="100px"/></a> </p>
 
 
-<p align="center"> <a href="/"><img src="https://i.imgur.com/5NaC3xX.jpg" alt="bc-expert" width="400px"/></a> </p><h2 font-weight="bold">ANDROID APPLICATION</h2>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="https://i.imgur.com/5NaC3xX.jpg" alt="bc-expert" width="400px"/></a> </p><h2 font-weight="bold">ANDROID APPLICATION</h2>
 
 
 
@@ -85,17 +85,17 @@ I am a front-end and application developer, responsible for using programming la
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="">
+        <a style="margin-left: 10px;"  target="_blank" href="https://github.com/ALOSTOURA-TV">
 			<img src="https://i.imgur.com/fhETyl9.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
 		<img src="https://i.imgur.com/umFnSlb.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
 			<img src="https://i.imgur.com/uUJNbl3.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
 			<img src="https://i.imgur.com/5UCt2i8.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
 			<img src="https://i.imgur.com/HfZ5S9O.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
 			<img src="https://i.imgur.com/QKocJSZ.png" width="40" height="40"></a>
       </div>
 
