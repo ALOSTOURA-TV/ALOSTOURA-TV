@@ -72,13 +72,13 @@ I am a front-end and application developer, responsible for using programming la
 <table>
   <tr>
       
-<td><img src="https://i.imgur.com/aJxXfb8.png" width="50px"></td>  
-<td><img src="https://i.imgur.com/o7XwAhY.png" width="50px"></td> 
+<td><img src="aJxXfb8.png" width="50px"></td>  
+<td><img src="o7XwAhY.png" width="50px"></td> 
 <td><img src="python.png" width="50px"></td>
-<td><img src="https://i.imgur.com/ntmU1jU.png" width="50px"></td>
-<td><img src="https://i.imgur.com/YGJxRaD.png" width="50px"></td>
-<td><img src="https://i.imgur.com/XcZhDLu.png" width="50px"></td>
-<td><img src="https://i.imgur.com/0ABG049.png" width="60px"></td>
+<td><img src="ntmU1jU.png" width="50px"></td>
+<td><img src="YGJxRaD.png" width="50px"></td>
+<td><img src="XcZhDLu.png" width="50px"></td>
+<td><img src="0ABG049.png" width="60px"></td>
 	  
   </tr>
 
