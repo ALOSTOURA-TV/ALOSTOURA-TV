@@ -71,9 +71,10 @@ I am a front-end and application developer, responsible for using programming la
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
+      
+      <td><img src="https://i.imgur.com/aJxXfb8.png" width="50px"></td>  
       <td><img src="python.png" width="50px"></td>
       <td><img src="https://i.imgur.com/o7XwAhY.png" width="50px"></td> 
-      <td><img src="https://i.imgur.com/aJxXfb8.png" width="50px"></td>
       <td><img src="https://i.imgur.com/ntmU1jU.png" width="50px"></td>
       <td><img src="https://i.imgur.com/YGJxRaD.png" width="50px"></td>
       <td><img src="https://i.imgur.com/XcZhDLu.png" width="50px"></td>
