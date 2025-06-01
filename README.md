@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h1 align="center">🏆GitHub Profile Trophy</h1>
-<h1 align="center"> Application developer  </h1><p align="center"><img src="https://i.imgur.com/0sNawZ8.gif" width="35"></h1>
+<h1 align="center"> Application developer  </h1><p align="center"><img src="0sNawZ8.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/ALOSTOURA-TV"><img width="220" src="https://i.imgur.com/sONuNeb.png" /></a>
+  <a href="https://github.com/ALOSTOURA-TV"><img width="220" src="sONuNeb.png" /></a>
 </p>
 
 
@@ -44,9 +44,9 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 <div align="center">
-  <img width="140" src="https://i.imgur.com/BYgriAM.png"  alt="GitHub Profile Trophy"/>
+  <img width="140" src="BYgriAM.png"  alt="GitHub Profile Trophy"/>
 <br><br>
-<img align="left" src = "https://i.imgur.com/pKd0apO.gif" width = 50px height=50px>
+<img align="left" src = "pKd0apO.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
@@ -60,10 +60,10 @@ I am a front-end and application developer, responsible for using programming la
 <p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H5.png" alt="bc-expert" width="240px"/></a> </p>
 <p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="H6.svg" alt="bc-expert" width="200px"/></a> </p>
 
-<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="https://i.imgur.com/54DNXLH.png" alt="bc-expert" width="100px"/></a> </p>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="54DNXLH.png" alt="bc-expert" width="100px"/></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="https://i.imgur.com/5NaC3xX.jpg" alt="bc-expert" width="400px"/></a> </p><h2 font-weight="bold">ANDROID APPLICATION</h2>
+<p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="5NaC3xX.jpg" alt="bc-expert" width="400px"/></a> </p><h2 font-weight="bold">ANDROID APPLICATION</h2>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ALOSTOURA-TV&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ALOSTOURA-TV" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ALOSTOURA-TV&show_icons=true&locale=en&theme=chartreuse-dark" alt="ALOSTOURA-TV" width="410" /></p>
@@ -85,7 +85,7 @@ I am a front-end and application developer, responsible for using programming la
 
 </table>
 <br/>
-<h3 align="center" > <img src="https://i.imgur.com/hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
