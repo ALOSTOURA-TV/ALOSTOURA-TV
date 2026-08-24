@@ -65,8 +65,8 @@ I am a front-end and application developer, responsible for using programming la
 
 <p align="center"> <a href="https://github.com/ALOSTOURA-TV"><img src="5NaC3xX.jpg" alt="bc-expert" width="400px"/></a> </p><h2 font-weight="bold">ANDROID APPLICATION</h2>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ALOSTOURA-TV&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ALOSTOURA-TV" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ALOSTOURA-TV&show_icons=true&locale=en&theme=chartreuse-dark" alt="ALOSTOURA-TV" width="410" /></p>
+<p><img  src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=ALOSTOURA-TV&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ALOSTOURA-TV" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=ALOSTOURA-TV&show_icons=true&locale=en&theme=chartreuse-dark" alt="ALOSTOURA-TV" width="410" /></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALOSTOURA-TV&theme=chartreuse-dark&hide_border=false"/>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
